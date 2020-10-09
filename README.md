@@ -1,4 +1,4 @@
-# vlog_4_binary_search
+# vlog4_binary_search
 
 Binary search is a simple but tricky method of searching at phenomenal speed compared to standard sequential search. 
 
